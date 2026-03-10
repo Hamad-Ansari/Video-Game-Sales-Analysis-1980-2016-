@@ -1,0 +1,16 @@
+# R package dependencies
+# Run install.packages(c()) to install all required packages
+
+required_packages <- c(
+  "ggplot2",
+  "dplyr",
+  "hrbrthemes",
+  "gganimate",
+  "gapminder",
+  "babynames",
+  "ggthemes",
+  "cowplot",
+  "DescTools"
+)
+
+install.packages(required_packages)
