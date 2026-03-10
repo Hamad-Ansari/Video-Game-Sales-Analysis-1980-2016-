@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Hammad_zahid"
+    given-names: "Hammad ansari"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Video Game Sales EDA (1980-2016)"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://github.com/Hamad-Ansari/Video-Game-Sales-Analysis-1980-2016"
+repository-code: "https://www.kaggle.com/code/hammadansari7/video-game-sales/notebook"
+license: "MIT"
+keywords:
+  - "R"
+  - "data-analysis"
+  - "eda"
+  - "video-games"
+  - "sales-analysis"
