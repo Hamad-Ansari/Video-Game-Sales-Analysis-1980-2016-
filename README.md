@@ -50,6 +50,11 @@ source("video_game_sales_analysis.R")
 ```
 Kaggle notebook linke: https://www.kaggle.com/code/hammadansari7/video-game-sales
 ---
+<img width="1680" height="3000" alt="77f8f22a-aad3-4b87-9631-e0b68cc3cd11" src="https://github.com/user-attachments/assets/0496386f-2ef8-4d7d-a5b0-c3a709f5bcff" />
+<img width="2400" height="2760" alt="8083e80b-596d-476f-90cd-217433be35a1" src="https://github.com/user-attachments/assets/84578b6d-2128-4410-bbaf-6a384937bbe7" />
+<img width="1680" height="1200" alt="f35fb6c4-4ae2-405d-b760-db102c204607" src="https://github.com/user-attachments/assets/110fe84d-0738-413e-9481-295e4114cc72" />
+<img width="2400" height="2400" alt="26789f87-2dc1-4e51-b6e1-3e5b5f37a6fa" src="https://github.com/user-attachments/assets/7fba6a29-f861-4b33-b58e-f7dd1d1dc0dd" />
+![download](https://github.com/user-attachments/assets/c354984b-f85b-4af6-b52a-316cd903d882)
 
 # 👨‍💻 Author
 **Owner:Murilão**
