@@ -1,0 +1,18 @@
+---
+title: "Exploratory Data Analysis: Video Game Sales (1980-2016)"
+author: "HAMMAD ZAHID"
+date: "`https://www.kaggle.com/datasets/gregorut/videogamesales`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    highlight: tango
+    code_folding: show
+  pdf_document:
+    toc: true
+    latex_engine: xelatex
+  github_document:
+    toc: true
+    html_preview: true
+---
