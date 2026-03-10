@@ -48,6 +48,7 @@ install.packages(c("tidyverse", "cowplot", "ggthemes", "DescTools", "hrbrthemes"
 # Run the analysis
 source("video_game_sales_analysis.R")
 ```
+Kaggle notebook linke: https://www.kaggle.com/code/hammadansari7/video-game-sales
 ---
 
 # 👨‍💻 Author
